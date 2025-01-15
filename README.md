@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=EunEun&fontAlign=70&rotate=13&fontAlignY=25&desc=FrontEnd%20Developer&descAlign=60&descAlignY=44&theme=radical)
 
-### eeuneeun/eeuneeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### eeuneeun is a ✨ _specialist_ ✨ of FrontEnd Develop !
 
 ![Euneun's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeuneeun&show_icons=true&theme=radical)
 
