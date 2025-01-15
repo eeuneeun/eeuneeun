@@ -8,8 +8,8 @@
 
 ### Euneun's Skil List
 
-<img src="https://img.shields.io/badge/react.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/nextdotjs.svg?style=for-the-badge&logo=nextJS&logoColor=000000" />
+<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/nextdotjs.svg?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
