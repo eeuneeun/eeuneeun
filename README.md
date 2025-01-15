@@ -1,4 +1,5 @@
 ## Hi there 👋
+
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=EunEun&fontAlign=70&rotate=13&fontAlignY=25&desc=FrontEnd%20Developer&descAlign=60&descAlignY=44&theme=radical)
 
 ### eeuneeun is a ✨ _specialist_ ✨ of FrontEnd Develop !
@@ -6,8 +7,9 @@
 ![Euneun's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeuneeun&show_icons=true&theme=radical)
 
 ### Euneun's Skil List
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/nextdotjs.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+<img src="https://img.shields.io/badge/react.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/nextdotjs.svg?style=for-the-badge&logo=nextJS&logoColor=000000" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,4 +19,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
