@@ -1,6 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=FrontEnd%20Developer&theme=radical)
-
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=FrontEnd%20Develope&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20fReact%20Vue%20Svelt%20Angular&descAlign=60&descAlignY=44)
 **eeuneeun/eeuneeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
